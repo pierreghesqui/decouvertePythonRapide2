@@ -1,0 +1,1 @@
+https://mybinder.org/v2/gh/pierreghesqui/decouvertePythonRapide2/main
